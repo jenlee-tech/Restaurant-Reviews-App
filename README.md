@@ -1,14 +1,14 @@
-# Mobile Web Specialist Certification Course
+# Jennifer Lee's Restaurant Reviews Project - FEND Project #5
 ---
-#### _Three Stage Course Material Project - Restaurant Reviews_
+## Background
+This project is mock restaurant finder application.  The application has maps from [MapBox](https://www.mapbox.com/) and it has mock restaruant review, hours, etc.
 
-## Project Overview: Stage 1
-
-For the **Restaurant Reviews** projects, you will incrementally convert a static webpage to a mobile-ready web application. In **Stage One**, you will take a static design that lacks accessibility and convert the design to be responsive on different sized displays and accessible for screen reader use. You will also add a service worker to begin the process of creating a seamless offline experience for your users.
-
-### Specification
-
-You have been provided the code for a restaurant reviews website. The code has a lot of issues. It’s barely usable on a desktop browser, much less a mobile device. It also doesn’t include any standard accessibility features, and it doesn’t work offline at all. Your job is to update the code to resolve these issues while still maintaining the included functionality. 
+## Goals for this project:
+The original repository was provided by Udacity and the student's main goal is to update/change the code with these areas in mind:
+    * make the webpages responsive - appropriate for different viewports
+    * use keys from MapBox
+    * use service workers which will help make the application work offline
+    * make it accessiblity friendly
 
 ### What do I do from here?
 
@@ -30,7 +30,17 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 
 
 ### Acknoledgements and Resources:
-[Aria techniques] (https://developer.mozilla.org/en-US/docs/Web/Accessibility/Aria/aria_Techniques)
+* [Aria techniques](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Aria/aria_Techniques)
+
+* [Matthew Cranford - Restaurant Review Apps Walkthrough](https://matthewcranford.com/restaurant-reviews-app-walkthrough-part-1-map-api/)
+
+* [Alexandro Perez MWS Restaurant Review walkthrough webinar](https://alexandroperez.github.io/mws-walkthrough/?1.1.introduction)
+
+* [leafletjs](https://leafletjs.com/)
+
+* [Mapbox](https://www.mapbox.com/)
+
+* [Python](https://www.python.org/)
 
 
 
