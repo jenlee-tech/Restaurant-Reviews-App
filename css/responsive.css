@@ -1,0 +1,28 @@
+/*file for responsive css*/
+
+/*responsie css for devices like Nexus 5, Galaxy S5*/
+@media screen and (max-width: 360px) {
+    ul, li {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        color: #333;
+        };
+    
+    #restaurant-name {
+        font-size: 18px;
+    };
+
+    #breadcrumb {
+        font-size: 12px;
+    };
+
+    #restaurants-list .restaurant-img {
+        background-color: #ccc;
+        display: block;
+        margin: 0;
+        max-width: 100%;
+        min-height: 200px;
+        min-width: 100%;
+    };
+};
+
