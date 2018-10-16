@@ -1,4 +1,4 @@
-# Jennifer Lee's Restaurant Reviews Project - FEND Project #5
+# Restaurant Reviews Project by Jennifer Lee
 
 
 
@@ -16,7 +16,7 @@ The original repository was provided by [Udacity](https://github.com/udacity/mws
 
 
 
-### What do I do from here?
+## What do I do from here?
 1. You could download this repository by clicking the above button that states, "Clone or Download." You will choose either Download Zip or Open in Desktop. Put the files in one folder.
 
 2. In a terminal, check the version of Python you have: `python -V`. If you have Python 2.x, spin up the server with `python -m SimpleHTTPServer 4000`. For Python 3.x, you can use `python3 -m http.server 4000`. **For my project, I used port 4000.**  If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
@@ -29,7 +29,7 @@ The original repository was provided by [Udacity](https://github.com/udacity/mws
 
 
 
-### Acknoledgements and Resources:
+## Acknoledgements and Resources:
 * [Aria techniques](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Aria/aria_Techniques)
 
 * [Matthew Cranford - Restaurant Review Apps Walkthrough](https://matthewcranford.com/restaurant-reviews-app-walkthrough-part-1-map-api/)
@@ -57,8 +57,8 @@ The original repository was provided by [Udacity](https://github.com/udacity/mws
 * Udacity's Front End Nanodegree [Style Guides](https://github.com/udacity/frontend-nanodegree-styleguide)
 
 
-### Further Comments:
-This project helped me understand the role of service workers and caching better - definitely interesting especially if you want to make your app available offline. :simple_smile:
+## Further Comments:
+This project helped me understand the role of service workers and caching better - definitely interesting especially if you want to make your app available offline. :smile:
 
 
 This project was built on lots of reading and drinking copious amounts of coffee. :coffee: Copyright © 2018 Jennifer Lee
