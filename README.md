@@ -1,16 +1,19 @@
 # Jennifer Lee's Restaurant Reviews Project - FEND Project #5
----
+
+
 
 ## Background
-This project is a mock restaurant finder application.  The application has maps from [MapBox](https://www.mapbox.com/ and it has mock restaruant review, hours, etc.
+This project is a mock restaurant finder application.  The application has maps from [MapBox](https://www.mapbox.com/) and it has mock restaruant review, hours, etc.
 
 
-## Goals for this project:
+
+## Goal for this project:
 The original repository was provided by [Udacity](https://github.com/udacity/mws-restaurant-stage-1) and the student's main goal is to update/change the code with these areas in mind:
-    * make the webpages responsive - appropriate for different viewports
-    * use keys from MapBox
-    * use service workers which will help make the application work offline
-    * make it accessiblity friendly
+* make the webpages responsive - appropriate for different viewports
+* use keys from MapBox
+* use service workers which will help make the application work offline
+* make it accessiblity friendly
+
 
 
 ### What do I do from here?
@@ -22,7 +25,8 @@ The original repository was provided by [Udacity](https://github.com/udacity/mws
 
 4. You could then test the pages for offline use.  For example, in Chrome, you could press F12 for Dev Tools\Application\Service Workers\select Offline.  Reload the page and you will notice the maps and images are still rendered because the service worker enabled the caching feature for this app.
 
-5. You could also check out the accessibility feature for the pages by checking the order of the tabs and also note some aria-labels that describe features for non-visible use.
+5. You could also check out the accessibility features for the pages by checking the order of the tabs and also note some aria-labels that describe features for non-visible use.
+
 
 
 ### Acknoledgements and Resources:
