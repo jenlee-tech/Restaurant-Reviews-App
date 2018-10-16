@@ -17,9 +17,9 @@ The original repository was provided by [Udacity](https://github.com/udacity/mws
 
 
 ### What do I do from here?
-1. You could download this repository by clicking the above button that states, "Clone or Download." You will choose either Download Zip or Open in Desktop. Put the files in one folder and open index.html in a modern day web browser.
+1. You could download this repository by clicking the above button that states, "Clone or Download." You will choose either Download Zip or Open in Desktop. Put the files in one folder.
 
-2. In a terminal, check the version of Python you have: `python -V`. If you have Python 2.x, spin up the server with `python -m SimpleHTTPServer 4000`. For Python 3.x, you can use `python3 -m http.server 4000`. For my project, I used port 4000.  If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
+2. In a terminal, check the version of Python you have: `python -V`. If you have Python 2.x, spin up the server with `python -m SimpleHTTPServer 4000`. For Python 3.x, you can use `python3 -m http.server 4000`. **For my project, I used port 4000.**  If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
 
 3. With your server running, visit the site: `http://localhost:4000` - you will see the index page and how it is responsive in different viewports.  You could also select a restaurant and check the resposiveness there.  
 
@@ -36,6 +36,12 @@ The original repository was provided by [Udacity](https://github.com/udacity/mws
 
 * [Alexandro Perez MWS Restaurant Review walkthrough webinar](https://alexandroperez.github.io/mws-walkthrough/?1.1.introduction)
 
+* Concepts on [Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+
+* Concepts on [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+
+* Concepts on [Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
+
 * [leafletjs](https://leafletjs.com/)
 
 * [Mapbox](https://www.mapbox.com/)
@@ -44,5 +50,16 @@ The original repository was provided by [Udacity](https://github.com/udacity/mws
 
 * [Udacity - Restaurant Reviews Apps repository](https://github.com/udacity/mws-restaurant-stage-1)
 
+* Project Rubric from Udacity
 
+* [Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/) for Markdown files
+
+* Udacity's Front End Nanodegree [Style Guides](https://github.com/udacity/frontend-nanodegree-styleguide)
+
+
+### Further Comments:
+This project helped me understand the role of service workers and caching better - definitely interesting especially if you want to make your app available offline. :simple_smile:
+
+
+This project was built on lots of reading and drinking copious amounts of coffee. :coffee: Copyright © 2018 Jennifer Lee
 
